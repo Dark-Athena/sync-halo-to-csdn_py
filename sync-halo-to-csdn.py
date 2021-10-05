@@ -3,7 +3,6 @@
 #日期 ：2021-10-03 
 #作者：Dark-Athena
 #email ：darkathena@qq.com
-#说明：自动从备选ip清单中寻找最低延时IP，设置到本地host中，需要使用管理员权限运行
 
 """
 Copyright DarkAthena(darkathena@qq.com)
